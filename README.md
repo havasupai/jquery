@@ -13,3 +13,6 @@ https://codepen.io/CBeghin/full/HeuiF
 https://codepen.io/912lab/pen/LsplC
 https://tympanus.net/codrops/2013/06/26/expanding-search-bar-deconstructed/
 https://codemyui.com/search-icon-to-search-field-animation/
+
+pour ouvrir le chrome depuis un .html de visual studio
+https://www.webucator.com/blog/2016/06/launch-files-browser-visual-studio-code/
