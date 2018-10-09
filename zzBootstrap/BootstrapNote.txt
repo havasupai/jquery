@@ -1,0 +1,31 @@
+----------------------------
+References : 
+
+https://getbootstrap.com/docs/3.3/getting-started/#examples
+https://www.bootply.com/
+https://www.webdesignerdepot.com/2014/10/the-ultimate-guide-to-bootstrap/
+https://startbootstrap.com/template-categories/one-page/
+https://gridgum.com/themes/category/free/
+https://bootstrapmade.com/
+https://bootstrapbay.com/
+https://bootsnipp.com/
+
+-------------------------------------------
+Liens HTMl : 
+
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+
+On peut aussi pointer sur internet : 
+-----------------------------------------
+
+<link <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+…
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+----------------------------------------
+
+
+
+Exos corrigés JavaScript : https://github.com/oc-courses/intro-javascript
